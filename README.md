@@ -2,7 +2,7 @@
 
 Portfolio projects by Jeffrey Rozeboom.
 
-## Skills
+## Skills in development
 - Power BI
 - SQL
 - Python
